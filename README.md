@@ -1,0 +1,2 @@
+# foobar_playlist_changeDirectory
+foobar播放列表批量修改盘符
